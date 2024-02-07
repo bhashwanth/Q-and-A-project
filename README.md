@@ -1,2 +1,2 @@
 # Q-and-A-project
-Q and A chat
+Q and A chat bot
